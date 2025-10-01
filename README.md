@@ -18,3 +18,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=efatemee&show_icons=true&locale=en&layout=compact" alt="efatemee" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=efatemee&show_icons=true&locale=en" alt="efatemee" /></p>
+
+
+![Gitgub Snake](https://github.com/maxamin/maxamin/blob/main/assets/github-snake.svg) 
