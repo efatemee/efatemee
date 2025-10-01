@@ -19,5 +19,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=efatemee&show_icons=true&locale=en" alt="efatemee" /></p>
 
-
-![Gitgub Snake](https://github.com/maxamin/maxamin/blob/main/assets/github-snake.svg) 
