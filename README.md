@@ -1,28 +1,90 @@
-<h1 align="center">Hi 👋, I'm Fateme Esmaeili</h1>
-<h3 align="center">student engineer computer and front end developer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=efatemee&label=Profile%20views&color=0e75b6&style=flat" alt="efatemee" /> </p>
-
-- 📫 How to reach me **efatemeesm001@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/efatemee/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/efatemee/" height="30" width="40" /></a>
+<!-- Header Section -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=5000&pause=800&color=A87B9F&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+Fateme+%F0%9F%8C%B8;Computer+Engineering+Student;Front-End+Developer;Welcome+to+my+creative+space!" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-</a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-</a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-</a>
+<!-- Profile Views & Social Badges -->
+<p align="center">
+  <a href="https://github.com/efatemee">
+    <img src="https://komarev.com/ghpvc/?username=efatemee&label=Profile%20Views&color=7c3aed&style=flat" alt="Profile Views" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/efatemee/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-8B5CF6?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:efatemeesm001@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D4A0D0?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 
+## 🌸 About Me
+
+I'm a **Computer Engineering student** with a passion for crafting beautiful digital experiences and exploring the frontiers of technology. My journey blends **creative front-end development** with a deep curiosity for **AI, NLP, and computer vision**. I love turning ideas into code that is both functional and elegant.
+
+- 🖥️ Front-End Developer — building with React, Vite, and modern JavaScript
+- 🌐 Networking enthusiast — VLANs, ACLs, and secure architectures
+- 🤖 Exploring AI, NLP, and Computer Vision to build smarter systems
+- 💡 Lifelong learner and problem solver
+- 🧰 Comfortable with **C**, **C++**, and **Python** for systems programming and algorithmic challenges
+
+---
+
+## 🛠️ Skills
+
+### Front-End Development
+<img src="https://img.shields.io/badge/React-Web%20Development-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Vite-Build%20Tool-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-Web%20Development-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/HTML5-Markup-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-Styling-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+
+### Programming Languages
+<img src="https://img.shields.io/badge/C-Systems%20Programming-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-Systems%20Programming-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-Scripting%20%26%20AI-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-Web%20Development-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+
+### Computer Networks
+<img src="https://img.shields.io/badge/VLAN-Networking-009639?style=for-the-badge&logo=cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/ACL-Networking-009639?style=for-the-badge&logo=cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+
+### Tools & Workflow
+<img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-Development-181717?style=for-the-badge&logo=github&logoColor=white" />
+
+---
+
+## 🌱 Learning Journey
+
+I'm always expanding my horizons. Currently exploring:
+
+- 🎨 **Front-End Development** — Modern UI/UX with React, Vite, and responsive design
+- 🤖 **AI & NLP** — Natural Language Processing and intelligent systems
+- 👁️ **Computer Vision** — Image processing and visual recognition
+- 🧠 **Deep Learning** — Neural networks and advanced ML models
+- ☁️ **Cloud Computing** — Scalable and distributed systems
+- 💻 **C/C++ & Python** — Strengthening fundamentals for systems programming and algorithm design
+
+---
+
+## 📬 Contact Me
+
+I'm always open to collaboration, learning opportunities, or just a friendly chat!
+
+<p align="center">
+  <a href="mailto:efatemeesm001@gmail.com">
+    <img src="https://img.shields.io/badge/Email-efatemeesm001%40gmail.com-D4A0D0?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/efatemee/">
+    <img src="https://img.shields.io/badge/LinkedIn-efatemee-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+> *“Code is poetry, and every great project starts with a single line.”*  
+> — Fateme Esmaeili 🌸
