@@ -9,7 +9,7 @@
     <img src="https://komarev.com/ghpvc/?username=efatemee&label=Profile%20Views&color=7c3aed&style=flat" alt="Profile Views" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/efatemee/">
+  <a href="https://www.linkedin.com/in/efatemee/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-8B5CF6?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
@@ -79,7 +79,7 @@ I'm always open to collaboration, learning opportunities, or just a friendly cha
     <img src="https://img.shields.io/badge/Email-efatemeesm001%40gmail.com-D4A0D0?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/efatemee/">
+  <a href="https://www.linkedin.com/in/efatemee/">
     <img src="https://img.shields.io/badge/LinkedIn-efatemee-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
